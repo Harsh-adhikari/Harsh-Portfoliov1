@@ -27,24 +27,24 @@ My goal was to create something unique and personal, reflecting my interest in *
 ## Screenshots
 
 ### Home Section
-![Home Screenshot](./public/images/Home.png)
+![Home Screenshot](./frontend/public/images/Home.png)
 
 *Space-themed landing page with rocket animations*
 
 ### Projects Section
-![Projects Screenshot](./public/images/projects.png)
+![Projects Screenshot](./frontend/public/images/projects.png)
 <br>
 *Showcase of my work and projects*
 
 ### Experience Section
-![Experience Screenshot](./public/images/experience.png)
+![Experience Screenshot](./frontend/public/images/experience.png)
 <br>
 *Showcasing my Experience in the field of web devlopment*
 
 ---
 
 ### Logo
-![Logo Screenshot](./public/images/logop.png)
+![Logo Screenshot](./frontend/public/images/logop.png)
 *Website Logo*
 
 ---
