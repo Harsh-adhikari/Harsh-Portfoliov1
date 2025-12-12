@@ -14,5 +14,12 @@ html {
 
 body {
   @apply bg-black text-white overflow-x-hidden;
+  cursor: none; /* Hide default cursor */
 }
 
+/* Hide cursor on mobile/tablets since custom cursor is hidden there */
+@media (max-width: 768px) {
+  body {
+    cursor: auto;
+  }
+}
