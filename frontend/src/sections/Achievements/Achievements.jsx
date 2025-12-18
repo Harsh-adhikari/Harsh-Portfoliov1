@@ -47,7 +47,7 @@ const achievementsData = [
 const statsData = [
   { number: 15, label: 'Projects Completed' },
   { number: 5, label: 'Certifications' },
-  { number: 16, label: 'GitHub Contributions' },
+  { number: 75, label: 'GitHub Contributions' },
 ];
 
 const AchievementCard = ({ achievement }) => {
