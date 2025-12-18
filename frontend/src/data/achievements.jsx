@@ -44,5 +44,5 @@ export const achievementsData = [
 export const statsData = [
   { number: 15, label: 'Projects Completed' },
   { number: 5, label: 'Certifications' },
-  { number: 16, label: 'GitHub Contributions' },
+  { number: 79, label: 'GitHub Contributions' },
 ];
