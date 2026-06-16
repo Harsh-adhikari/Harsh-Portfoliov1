@@ -176,6 +176,9 @@ const StatCard = ({ stat }) => {
       ([entry]) => {
         if (entry.isIntersecting) {
           setIsVisible(true);
+        } else {
+          setIsVisible(false);
+          setCount(0);
         }
       },
       { threshold: 0.5 }
@@ -204,7 +207,7 @@ const StatCard = ({ stat }) => {
         } else {
           setCount(Math.floor(current));
         }
-      }, 30);
+      }, 20);
 
       return () => clearInterval(timer);
     }
