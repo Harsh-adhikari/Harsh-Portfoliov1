@@ -35,18 +35,14 @@ const About = () => {
           </h2>
 
           <p className="text-base md:text-lg leading-relaxed text-white mb-5">
-            Hi, my name is Harsh, a BCA student. I am passionate about creating
-            clean, responsive, user-friendly websites. Focused on modern web
-            solutions and continuous learning.
+            Hi, I'm Harsh Adhikari, a MERN Stack Developer with an interest in Quality Assurance (QA). I enjoy building responsive, user-friendly web applications and ensuring they are reliable through effective testing.
           </p>
 
           <p className="text-base md:text-lg leading-relaxed text-white mb-5">
-            I believe in the power of technology to transform ideas into
-            reality. With expertise in full-stack development, I bring creative
-            solutions to complex problems.
+            I have experience with MongoDB, Express.js, React.js, Node.js, JavaScript, HTML, CSS, Tailwind CSS, REST APIs, and Postman. I'm passionate about writing clean code, solving problems, and continuously learning new technologies to build high-quality software.
           </p>
 
-          
+
           <a
             href="/Harsh-Adhikari-(2025-Resume).pdf"
             download="Harsh_Adhikari_Resume.pdf"
